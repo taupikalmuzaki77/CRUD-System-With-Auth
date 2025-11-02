@@ -1,2 +1,2 @@
-# Npm Install
-# Npm run build
+1. Npm install
+2. Npm run build
